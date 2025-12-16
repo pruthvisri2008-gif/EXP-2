@@ -56,8 +56,9 @@ Tabulation for Load Test:
 
 
 Model graph:
-![model graph open 2](https://github.com/user-attachments/assets/d75214f4-8ea4-4a68-813a-a736c57f2af2)
-![model grap load 2](https://github.com/user-attachments/assets/2560fb0a-67b7-4435-ab37-819d44793b9d)
+![model graph open 2](https://github.com/user-attachments/assets/d4ffd01e-802f-4517-b5d3-76d789cba73f)
+
+![model grap load 2](https://github.com/user-attachments/assets/82c8bbe1-1431-440d-be6e-064747181733)
 
 Calculation: 
 

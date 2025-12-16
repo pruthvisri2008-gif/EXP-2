@@ -64,12 +64,14 @@ Calculation:
 
 Open circuit characteristics:
 
-![open circut beee2](https://github.com/user-attachments/assets/58f32fee-bb22-4009-88ba-6302763750a5)
+![open graph 2](https://github.com/user-attachments/assets/adffa429-0409-44f5-8699-e353c1ec7e03)
+
 
   
 Load Characteristics:
 
-![load beee2 tab](https://github.com/user-attachments/assets/1c914222-df76-41f2-93d4-c9d3000f43d5)
+![load graph 2](https://github.com/user-attachments/assets/8ec07f48-67c7-49c5-b32d-c9f3ad1221c5)
+
 
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
